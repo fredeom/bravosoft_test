@@ -1,0 +1,24 @@
+.App {
+  margin: 1rem;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+form > div {
+  clear: both;
+  text-align: right;
+  line-height:40px;
+}
+
+form > div > label {
+  float: left;
+  padding-right:10px;
+}
+
+form {
+  float: left;
+  margin: 20px;
+}
+
+table {
+  clear: both;
+}
